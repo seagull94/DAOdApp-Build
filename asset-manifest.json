@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/DAOdApp-Build/static/css/main.cd098314.css",
+    "main.js": "/DAOdApp-Build/static/js/main.532c41af.js",
+    "static/js/453.9d56267b.chunk.js": "/DAOdApp-Build/static/js/453.9d56267b.chunk.js",
+    "static/media/eyekyam.png": "/DAOdApp-Build/static/media/eyekyam.9cf12b2a194c511ce599.png",
+    "index.html": "/DAOdApp-Build/index.html",
+    "main.cd098314.css.map": "/DAOdApp-Build/static/css/main.cd098314.css.map",
+    "main.532c41af.js.map": "/DAOdApp-Build/static/js/main.532c41af.js.map",
+    "453.9d56267b.chunk.js.map": "/DAOdApp-Build/static/js/453.9d56267b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd098314.css",
+    "static/js/main.532c41af.js"
+  ]
+}
